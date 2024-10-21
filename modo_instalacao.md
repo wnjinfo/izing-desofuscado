@@ -145,6 +145,8 @@ cd ~
 
 ```bash
 git clone https://github.com/cleitonme/izingpro.bayles.git izing
+
+git clone https://github.com/wnjinfo/izing-desofuscado.git izing
 ```
 
 26. Copiar o env de exemplo para o backend
